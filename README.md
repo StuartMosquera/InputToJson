@@ -2,7 +2,7 @@
 
 The **Input to Json** project, converts application arguments into a **JSON** object.
 
-> **Note:** The **JSON** object includes the current year.
+> **Note:** The JSON object includes the current year.
 
 ## Directory Structure
 
